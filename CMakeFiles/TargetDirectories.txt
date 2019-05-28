@@ -1,0 +1,4 @@
+/home/augusto/Documentos/PAA/PAA/CMakeFiles/rebuild_cache.dir
+/home/augusto/Documentos/PAA/PAA/CMakeFiles/QT_Grade.dir
+/home/augusto/Documentos/PAA/PAA/CMakeFiles/edit_cache.dir
+/home/augusto/Documentos/PAA/PAA/CMakeFiles/QT_Grade_autogen.dir
